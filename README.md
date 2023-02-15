@@ -1,7 +1,13 @@
-# Awesome Project Build with TypeORM
 
-Steps to run this project:
+- Cadastro de TAG
 
-1. Run `npm i` command
-2. Setup database settings inside `ormconfig.json` file
-3. Run `npm start` command
+[ ] Não é permitido cadastrar mais de uma tag com o mesmo nome
+[ x ] Não é permitido cadastrar mais de uma tag com o mesmo nome
+
+[ ] Não é permitido cadastrar tag sem nome
+[ x ] Não é permitido cadastrar tag sem nome
+
+[ ] Não é permitido o cadastro por usuários que não sejam administradores
+[ x ] Não é permitido o cadastro por usuários que não sejam administradores
+
+ - Cadastro de elogios
